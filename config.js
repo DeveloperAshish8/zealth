@@ -8,7 +8,7 @@ import { getAnalytics, isSupported } from "firebase/analytics";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyBdhmNhkomDFetCCU_YW-LrFLXTdFPcs3I",
-  authDomain: "zealth.vercel.app",
+  authDomain: "zealth-4.firebaseapp.com",
   projectId: "zealth-4",
   storageBucket: "zealth-4.appspot.com",
   messagingSenderId: "749463136880",
