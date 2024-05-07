@@ -107,7 +107,7 @@ export default function Home() {
 
                   <div className="flex gap-2 justify-center items-center">
                     <h2 className="">Already a user ?</h2>
-                    <Link href="/" className="text-blue-300">
+                    <Link href="/login" className="text-blue-300">
                       Log in
                     </Link>
                   </div>
